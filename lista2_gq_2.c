@@ -84,3 +84,5 @@ void imprime_aprovados(int n, Aluno** turmas) {
         if (turmas[i] == NULL) continue;
         float media = (turmas[i]->notas[0] + turmas[i]->notas[1] + turmas[i]->notas[2]) / 3.0f;
         if (media >= 7.
+
+return 
