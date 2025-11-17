@@ -86,6 +86,6 @@ void imprime_aprovados(int n, Aluno** turmas) {
         if (media >= 7. 
 
 
-   return ;
+   return 
 
 
