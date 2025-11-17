@@ -88,4 +88,4 @@ void imprime_aprovados(int n, Aluno** turmas) {
 
    return ;
 
-return 
+
