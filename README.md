@@ -19,6 +19,7 @@ int** trocaLinhas(int** mat, int linhas, int colunas, int p1, int p2) {
         return nova;
     }
 
+
     // Copia toda a matriz e troca as linhas p1 e p2
     int** nova = (int**)malloc(linhas * sizeof(int*));
     for (int i = 0; i < linhas; i++) {
