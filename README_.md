@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 
+
 /* 1) trocaLinhas: retorna uma nova matriz (cópia profunda) com as linhas p1 e p2 trocadas.
    Se p1 ou p2 inválidos (fora do intervalo) ou p1 == p2, retorna uma cópia idêntica da matriz. */
 int** trocaLinhas(int** mat, int linhas, int colunas, int p1, int p2) {
